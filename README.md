@@ -1,6 +1,6 @@
 # Proyecto de Mantenimiento
 ## Integrantes
-- Harold Aquino
+- Harold Alberto
 - Fredi Caballero
 - Rodrigo Prado
 - Jean Suarez

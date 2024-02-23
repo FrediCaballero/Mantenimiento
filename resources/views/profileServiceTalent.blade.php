@@ -1,6 +1,5 @@
 @extends('layouts.app')
 
-
 @section('contenido_js')
     
 @endsection
@@ -15,9 +14,18 @@
         <link rel="stylesheet" href="{{ asset('css/owl.carousel.css') }} ">
         <link rel="stylesheet" href="{{ asset('css/style.css') }}">
         <link rel="stylesheet" href="{{ asset('css/responsive.css') }} ">
-        <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,700,600' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Raleway:400,100' rel='stylesheet' type='text/css'>
+        <link 
+             href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,700,600' 
+             rel='stylesheet' 
+             type='text/css'>
+        <link 
+             href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' 
+             rel='stylesheet' 
+             type='text/css'>
+        <link 
+             href='http://fonts.googleapis.com/css?family=Raleway:400,100' 
+             rel='stylesheet' 
+             type='text/css'>
         <style>
             .description-service {
                 display: -webkit-box;
@@ -28,10 +36,8 @@
         </style>
 @endsection
 
-
 @section('content')
 
-    
     <div class="product-big-title-area">
         <div class="container">
             <div class="row">
